@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-test-site.com/blog</id>
+    <title>My Site Blog</title>
+    <updated>2023-03-25T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
+    <subtitle>My Site Blog</subtitle>
+    <icon>https://your-docusaurus-test-site.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Bienvenue !]]></title>
+        <id>https://your-docusaurus-test-site.com/blog/Bienvenue !</id>
+        <link href="https://your-docusaurus-test-site.com/blog/Bienvenue !"/>
+        <updated>2023-03-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bonjour, c'est Antoine CULTRU qui vous parle, bienvenue sur mon blog:]]></summary>
+        <content type="html"><![CDATA[<p><strong>Bonjour, c'est Antoine CULTRU qui vous parle, bienvenue sur mon blog:</strong>  </p><p>vous trouverez dans ce blog mon rapport de stage. J'ai effectué ce stage durant la période du 22 au 24 mars 2023, au sein d'une équipe d'informatique qui travail pour l'entreprise de <strong><a href="https://www.decathlon.fr" target="_blank" rel="noopener noreferrer">Décathlon</a></strong>.<br>
+<!-- -->Bien que cette équipe travaille pour Décathlon, une majorité des personnes de l'équipe sont des prestataires, ce qui signifie qu'ils travaillent  pour une autre entreprise qui "loue" leurs services. Les personnes composant l'équipe de Marktech, l'équipe au sein de laquelle j'ai fais mon stage, ont de grandes connaissances en informatique et ont chacuns leurs spécialités et leur place dans l'équipe. Vous trouverez dans ce blog différentes pages qui contiennent les explications que certaines personnes nous ont soumises à propos de leur métier. Tous font partie du groupe Marktech, un grouppe lié à l'envoie de mails. Ils ont tous, sauf Juliette, fait des études d'informatiques et la plupart possède un diplôme en ingénieurie.</p><p><img loading="lazy" alt="photo stage" src="/assets/images/photo-stage-d88990b4e7dfe770c17172c913660d1d.jpg" width="4032" height="2268" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Antoine CULTRU</name>
+            <uri>https://github.com/antoine'</uri>
+        </author>
+        <category label="hello" term="hello"/>
+        <category label="welcome" term="welcome"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jérémie, le Tech Lead]]></title>
+        <id>https://your-docusaurus-test-site.com/blog/jeremy-tech-lead</id>
+        <link href="https://your-docusaurus-test-site.com/blog/jeremy-tech-lead"/>
+        <updated>2023-03-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tout d'abord, Jérémy est notre maitre de stage, et il fait parti de l'équipe MarkTech au sein de Décathlon, contrairement à beaucoup de ses collègue, il n'est pas prestataire.]]></summary>
+        <content type="html"><![CDATA[<p>Tout d'abord, Jérémy est notre maitre de stage, et il fait parti de l'équipe MarkTech au sein de Décathlon, contrairement à beaucoup de ses collègue, il n'est pas prestataire.</p><p><strong>Son métier:</strong>  </p><p>Jérémy exerce le métier de tech lead, c'est à dire qu'il fait le pont entre les choses fontionnels et la réalisation. Il veille à ce que son équipe fasse des choix cohérent, maintenable et stable. Il fait donc beaucoup de réunion pour trouver le bon compromis et fais ainsi seulement peu de code. Il possède tout de même les capacités pour comprendre chaque langage, pour mener à bien les projets de l'équipe. Il sait aussi composer la bonne équipe pour la réalisation d'un projet.</p>]]></content>
+        <category label="tech" term="tech"/>
+        <category label="lead" term="lead"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alexandre, l'intégrateur]]></title>
+        <id>https://your-docusaurus-test-site.com/blog/alexandre-integrateur-e-mail</id>
+        <link href="https://your-docusaurus-test-site.com/blog/alexandre-integrateur-e-mail"/>
+        <updated>2023-03-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Son métier:]]></summary>
+        <content type="html"><![CDATA[<p><strong>Son métier:</strong>  </p><p>Alexandre est intégrateur e-mail. Son rôle est de faire l’intégration des messages et de développer des scripts, il travaille sur le Salersforce Marketing Cloud avec des mails transactionnels (ajouter une phrase pour expliquer les emails transactionnels). Les mails relationnels sont eux un message envoyé par décathlon pour informer un client sur un nouveau produit ou pour annoncer une promo par exemple, ce mail est une relation entre l’entreprise et le client. Il code le contenu en HTML et met en forme ce mail avec le langage CSS. Son travail consiste à transformer des maquettes Figma (lien vers le site du logiciel) en vrais pages HTML. Il utilise ces scripts pour faciliter le déploiement et organiser les sites. Il nous a montré un site qui contient beaucoup d’informations, que se soit sur les produits ou les magasins dans différents pays. Il nous a enfin expliqué que son métier contient beaucoup d’activités et nécessite de certaines compétences, tels que des compétences dans le développement ou bien dans la gestion des problématiques. Il fait du frontend mais seulement dans les mails, direcetement dans salesforce.</p>]]></content>
+        <category label="intégrateur" term="intégrateur"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Antoine, le développeur frontend]]></title>
+        <id>https://your-docusaurus-test-site.com/blog/antoine-developpeur-frontend</id>
+        <link href="https://your-docusaurus-test-site.com/blog/antoine-developpeur-frontend"/>
+        <updated>2023-03-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Son métier:]]></summary>
+        <content type="html"><![CDATA[<p><strong>Son métier:</strong>  </p><p>Cela fait 6 mois que Antoine travaille à décathlon, il exerce le métier de développeur frontend. C’est-à-dire qu’il développe l’interface de sites ou applications. Il nous a expliqué qu’il travaillait en ce moment sur l’interface d’une application. Ici c’était une application interne destiné au employés de décathlon qui travail dans les rayons. Il nous a expliqué que grâce à son code il place les boutons aux bons endroits, pour guider et faciliter le travail au maximum pour l’utilisateur. Il nous a dit que la création d’une application nécessite de beaucoup de personnes, autres que des personnes exerçant le métier de développeur frontend, et qu’il faisait ainsi partie d’un écosystème.</p>]]></content>
+        <category label="développeur" term="développeur"/>
+        <category label="frontend" term="frontend"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[decouverte-locaux-between-village]]></title>
+        <id>https://your-docusaurus-test-site.com/blog/2023/03/23/decouverte-locaux-between-village</id>
+        <link href="https://your-docusaurus-test-site.com/blog/2023/03/23/decouverte-locaux-between-village"/>
+        <updated>2023-03-23T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fabien, le développeur backend]]></title>
+        <id>https://your-docusaurus-test-site.com/blog/fabien-developpeur-backend</id>
+        <link href="https://your-docusaurus-test-site.com/blog/fabien-developpeur-backend"/>
+        <updated>2023-03-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Son métier:]]></summary>
+        <content type="html"><![CDATA[<p><strong>Son métier:</strong></p><p>Il exerce le métier de développeur backend, il exerce depuis une dizaine d’années. Il a fait une prépa puis une école d’ingénieur à Toulouse. Il utilise le langage Java. Il travail sur la partie « cachée » d’une application. Ici il s’agit de API (mettre le lien wikipedia). Une application simplement pour les employés. Il communique des requêtes de navigateur. Il utilise salesforce. Il nous a décrit les différentes particularités des différents langages.</p>]]></content>
+        <category label="développeur" term="développeur"/>
+        <category label="backend" term="backend"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joshua, le responsable en cybersécurité]]></title>
+        <id>https://your-docusaurus-test-site.com/blog/joshua-responsable-cybersecurite</id>
+        <link href="https://your-docusaurus-test-site.com/blog/joshua-responsable-cybersecurite"/>
+        <updated>2023-03-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Son métier:]]></summary>
+        <content type="html"><![CDATA[<p><strong>Son métier:</strong>  </p><p>Joshua est le responsable de la cybersécurité de décathlon, il a un diplôme en <em>Etical Hacking</em>, il a appris le hack pour pouvoir mieux protéger. Il nous a expliqué que la cybersécurité est un milieu très vaste. Il nous a aussi expliqué la différence entre le le hack, le pirate. Le hack, c'est détourner l'objectif principal d'un objet de sa fonction, sans malveillance, alors que le pirate c'est avec une forme de malveillance. Nous avons apris comment fonctionne la sécurité offensive. Il nous a enfin dit qu'il y avait une sécurté continu et que le risque 0 de hack n'existe pas.</p>]]></content>
+        <category label="tkt" term="tkt"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Juliette, la customer manager]]></title>
+        <id>https://your-docusaurus-test-site.com/blog/juliette-customer-manager</id>
+        <link href="https://your-docusaurus-test-site.com/blog/juliette-customer-manager"/>
+        <updated>2023-03-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Son metier]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="son-metier">Son metier<a href="#son-metier" class="hash-link" aria-label="Direct link to Son metier" title="Direct link to Son metier">​</a></h2><p>Juliette exerce le métier de <strong>customer manager</strong>, elle accompagne les pays à utiliser nos applications. Son travail n'a pas de lien directe avec l'informatique en effet, elle doit prendre contacte avec les pays dans lesquels décathlon est installé. Pour information Décathlon est installé dans 64 pays. Ainsi, elle maitrise bien l'anglais. Elle a donc un rôle lié au busieness, mais elle doit tout de même comprendre les enjeux des travaux du groupe. Elle nous a expliqué ensuite que Décathlon comptait plus de 200 millions de comptes clients et qu'ils avaient donc un avantage par rapport à leur concurents, notamment pour envoyer des mails ciblés. Ces mails peuvent être ciblés grâce aux données récoltées avec le consentement des clients, ces données vont être stockées sur des data-centers à distances (cloud), qui appatiennent à des sociétes telles que google et amazon car ceux sont eux les plus grands dans le domaine.</p>]]></content>
+        <category label="customer" term="customer"/>
+        <category label="manager" term="manager"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Léa, la product owner]]></title>
+        <id>https://your-docusaurus-test-site.com/blog/léa-product-owner</id>
+        <link href="https://your-docusaurus-test-site.com/blog/léa-product-owner"/>
+        <updated>2023-03-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Son métier]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="son-métier">Son métier<a href="#son-métier" class="hash-link" aria-label="Direct link to Son métier" title="Direct link to Son métier">​</a></h2><p>Elle exerce le métier de product owner. Elle est responsable de la dénition et de la conception d'un produit ou service digital. Elle travaille quotidiennement avec une équipe de développeur, soit l’équipe de Jérémy.<br>
+<!-- -->Le product owner cherche des idées pour améliorer un site ou une application, par exemple, c’est un product owner qui a eu l’idée de la mise à jour sur Instagram des petites bulles de chat. Son métier c’est d’aller comprendre pourquoi l’utilisateur se sert de ses outils et trouver une idée pour améliorer l’utilisation de l’application ou site. Elle organise aussi le travaille et elle le répartit.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="elle-est-prestataire">Elle est prestataire<a href="#elle-est-prestataire" class="hash-link" aria-label="Direct link to Elle est prestataire" title="Direct link to Elle est prestataire">​</a></h2><p> Elle est prestataire et travaille dans un cabinet de conseils, ce cabinet loue ses compétences à des entreprises, aujourd'hui, son entreprise loue ses compétences à décathlon. Cela fait 6 mois qu’elle travaille pour décathlon. Comme elle prestataire, elle n'habite pas forcement proche de Lille, en effet, elle habite à Paris, tout comme son entreprise.</p>]]></content>
+        <category label="product" term="product"/>
+        <category label="owner" term="owner"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[decouverte-locaux-decathlon-campus]]></title>
+        <id>https://your-docusaurus-test-site.com/blog/2023/03/22/decouverte-locaux-decathlon-campus</id>
+        <link href="https://your-docusaurus-test-site.com/blog/2023/03/22/decouverte-locaux-decathlon-campus"/>
+        <updated>2023-03-22T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jean-Marc, l'ingenieur qualité]]></title>
+        <id>https://your-docusaurus-test-site.com/blog/jean-marc-quality-ingenieur</id>
+        <link href="https://your-docusaurus-test-site.com/blog/jean-marc-quality-ingenieur"/>
+        <updated>2023-03-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[QA, testeur qualité Jean MArc]]></summary>
+        <content type="html"><![CDATA[<p>QA, testeur qualité Jean MArc
+q Ou encore appeler testeur ça fait à peu près une dizaine d'années que je fais ça donc j'ai fait pas mal de de missions parce que généralement en en SS 2I je sais pas si ça vous dit ce que c'est les SS 2I en fait c'est des entreprises où on est salarié et en fait l'entreprise nous place en mission à différents endroits hein on est pas vraiment salarié de Décathlon tu vois si vous comprenez le dans une autre entreprise et votre travail Ah voilà on est en mission d'ailleurs c'est pour ça notre email on a point Partner ça veut dire qu'en fait on n'est pas on n'est pas Décathlon on est mandaté en mission donc ça c'est c'est un c'est une petite subtilité qu'il faut qu'il faut savoir quoi donc on va de mission en mission donc moi j'ai fait comment les 3 Suisses alors je porte vitrine magique adeo donc qui est le le gestionnaire de services de Leroy Merlin je fais j 2 aussi la l'assurance La Mondiale donc alors bah mon métier c'est quoi en fait bah c'est de tester en gros de vérifier que Ben quand il y a eu un déploiement un nouveau logiciel une modification une correction d'anomalie.</p>]]></content>
+        <category label="ingénieur" term="ingénieur"/>
+        <category label="qualité" term="qualité"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Julien, l'ingénieur recherche et développement salesforce]]></title>
+        <id>https://your-docusaurus-test-site.com/blog/julien-integrateur-salesforce</id>
+        <link href="https://your-docusaurus-test-site.com/blog/julien-integrateur-salesforce"/>
+        <updated>2023-03-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Etudes]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="etudes">Etudes<a href="#etudes" class="hash-link" aria-label="Direct link to Etudes" title="Direct link to Etudes">​</a></h2><p>je suis parti donc dans une école privée supinfo, c'est une école privée avec une sorte de prépa intégré officiel mais du coup les 2 premières années on fait beaucoup de maths et contrairement aux écoles traditionnelles d'ingénieur où là tu as maths et physique là ils ont totalement sucré la physique parce qu'en soit on s'en fout on a pas besoin de de ces notions là pour la pour la suite et surtout besoin de notions de mathématiques et de logique donc c'est pour ça que ils ont sucré en physique et qu'ils ont laissé les maths voilà donc c'est une école une école en 5 ans. </p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="son-métier">Son métier<a href="#son-métier" class="hash-link" aria-label="Direct link to Son métier" title="Direct link to Son métier">​</a></h2><p>Faciliter la creation des campagne marketing pour l utilisateur
+Prestataire, obj former et évoluer puis placer chez clients son projet.  Son projet en ce moment, c’est  créer campagne mail et envoie automatiser les deploiment via ce logiciel car actuellement le logi vieux donc il doit automatiser a la main donc doit automatiser solution solides et testé solution de recommandation produit envoi recomandation en fonction des achats qui s appuis sur une autre equipe ça permet du coup de créer une coquille qu'on va mettre à disposition des pays qui va contenir du coup l'ensemble des blocs techniques que nous on maintient donc du code qui va nous permettre de faire du tracking de savoir qui a ouvert l'email qui a cliqué sur quoi qui va aussi intégrer différents scripts qui vont permettre l'identification du client et c'est un peu du du mandatory pour pouvoir utiliser nos différents services . </p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="united-template">United Template<a href="#united-template" class="hash-link" aria-label="Direct link to United Template" title="Direct link to United Template">​</a></h2><p>Julien nous a dit : « Nous ce qu'on a développé c'est le United template donc on leur met à disposition une coquille qu'on va du coup sélectionner template United et donc du coup on a eu le header le footer de notre de notre mail et l'utilisateur a juste à faire glisser ce qui ce qu'il souhaite dedans donc on a finalement quelque chose qui est uniforme entre tous les pays et ça on garantit que ça fonctionne que ce soit sur mobile comme sur tablette comme sur PC. »</p>]]></content>
+        <category label="salesforce" term="salesforce"/>
+        <category label="united template" term="united template"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[réunion-matinée]]></title>
+        <id>https://your-docusaurus-test-site.com/blog/2023/03/22/réunion-matinée</id>
+        <link href="https://your-docusaurus-test-site.com/blog/2023/03/22/réunion-matinée"/>
+        <updated>2023-03-22T00:00:00.000Z</updated>
+    </entry>
+</feed>
