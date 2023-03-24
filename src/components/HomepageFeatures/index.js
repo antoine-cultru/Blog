@@ -28,7 +28,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Tout d'abord, veuillez cliquer sur le bouton intitullé blogue en haut de la page à gauche. Puis, si vous le voulez bien, vous pouvez utiliser la "molette" sur le coté droit de la page pour descendre petit à petit dans le blogue et découvrir ce que nous avons appris et fait durant le stage. Une fois en bas de la page, veuillez cliquez sur "Older Entries".
+        Tout d'abord, veuillez cliquer sur le bouton intitullé blogue en haut de la page à gauche. Puis, si vous le voulez bien, vous pouvez utiliser la "molette" sur le coté droit de la page pour descendre petit à petit dans le blogue et découvrir ce que nous avons appris et fait durant le stage. Une fois en bas de la page, veuillez cliquez sur "Older Entries"
       </>
     ),
   },
