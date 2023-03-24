@@ -15,3 +15,5 @@ tags: [développeur, backend]
 > L'informatique, c'est comme les maths, c'est une matière où tu ne dois pas beaucoup apprendre mais où il faut surtout comprendre.
 
 ![image java](./java-image.png)  
+
+Ps: il s'agit d'une image illustrant le language Java.  

@@ -11,3 +11,5 @@ tags: [développeur, frontend]
 - Il nous a dit que la création d’une application nécessite de beaucoup de personnes, autres que des personnes exerçant le métier de développeur frontend, et qu’il faisait ainsi partie d’un écosystème. Il travaille sur **la partie visble de l'iceberg**.  
 
 ![sdifférences entre le développeur front et le développeur back](./difference-entre-developpeur-front-et-back.jpg)  
+
+Il s'agit là d'une image illustrant la différence entre les développeur backend et les développeur frontend.  
