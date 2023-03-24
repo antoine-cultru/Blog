@@ -1,7 +1,7 @@
 ---
 slug: antoine-developpeur-frontend
 title: Antoine, le développeur frontend
-tags: [développeur, frontend]
+tags: [développeur frontend]
 ---
 
 ## Son métier  

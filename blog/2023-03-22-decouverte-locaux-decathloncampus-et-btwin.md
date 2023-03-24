@@ -1,7 +1,7 @@
 ---
 slug: decouverte-locaux-decathloncampus-et-btwin
 title: Découverte des locaux de décathlon campus et des loocaux de B'twin
-tags: [locaux]
+tags: [campus, b'twin]
 ---
 
 ## Décathlon campus  

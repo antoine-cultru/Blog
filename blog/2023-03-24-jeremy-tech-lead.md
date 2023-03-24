@@ -1,7 +1,7 @@
 ---
 slug: jeremy-tech-lead
 title: Jérémie, le Tech Lead
-tags: [tech, lead]
+tags: [tech lead, Martech]
 ---
 
 ## Qui est Jérémy ?  

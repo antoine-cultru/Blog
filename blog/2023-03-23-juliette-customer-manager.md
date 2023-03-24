@@ -1,7 +1,7 @@
 ---
 slug: juliette-customer-manager
 title: Juliette, la customer manager
-tags: [customer, manager]
+tags: [customer manager]
 ---
 
 ## Son metier

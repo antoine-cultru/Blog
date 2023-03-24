@@ -1,7 +1,7 @@
 ---
 slug: fabien-developpeur-backend
 title: Fabien, le développeur backend
-tags: [développeur, backend]
+tags: [développeur backend]
 ---
 
 ## Son métier  

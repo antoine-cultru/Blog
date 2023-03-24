@@ -1,7 +1,7 @@
 ---
 slug: léa-product-owner
 title: Léa, la product owner
-tags: [product, owner]
+tags: [product owner]
 ---
 
 ## Son métier
