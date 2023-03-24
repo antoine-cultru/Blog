@@ -1,6 +1,6 @@
 ---
 slug: léa-product-owner
-title: Léa la product owner
+title: Léa, la product owner
 tags: [product, owner]
 ---
 

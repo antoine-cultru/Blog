@@ -4,32 +4,31 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Pourquoi un blog ?',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        J'ai choisi de vous présenter mon rapport de stage sous la frome d'un blog car j'ai réalisé mon stage dans une équipe d'informatique, et ce format est donc en adéquation avec mon stage.
+        
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Comment est construit ce blog ?',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Ce blogue est construit avec plusieurs pages, qui vont résumer les activités que nous avons réalisé durant le stage, de ce fait, vous y trouverez des résumés des rendez-vous que nous avons eu avec chacun des membres de l'équipe.
+        
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Comment devons nous lire ce blog ?',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Tout d'abord, veuillez cliquer sur le bouton intitullé blogue en haut de la page à gauche. Puis, si vous le voulez bien, vous pouvez utiliser la "molette" sur le coté droit de la page pour descendre petit à petit dans le blogue et découvrir ce que nous avons appris et fait durant le stage.
       </>
     ),
   },
