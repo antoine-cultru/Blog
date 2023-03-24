@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[2274],{920:e=>{e.exports=JSON.parse('{"label":"d\xe9veloppeur frontend","permalink":"/Blog/blog/tags/developpeur-frontend","allTagsPath":"/Blog/blog/tags","count":1}')}}]);
