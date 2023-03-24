@@ -17,3 +17,5 @@ tags: [tkt]
 ## Ses compétences  
 
 - Notre maître de stage nous a appris que le métier que réalise Joshua est l'un des métiers les plus durs dans l'informatique, car il faut beaucoup de connaissances. En effet, pour pouvoir être responsable en cybersécurité, il faut non seulement être capable de hacker, c'est à dire de trouver une faille dans un réseau, pour pouvoir hacker le site de son entreprise pour améliorer la sécurité de se site, mais aussi être le meilleur parmi tout les hackers qui tentent d'obtenir ce poste.  
+
+![image hacker](./hacker-blog.png)  

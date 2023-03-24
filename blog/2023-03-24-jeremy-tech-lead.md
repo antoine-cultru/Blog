@@ -14,4 +14,4 @@ tags: [tech, lead]
 
 ## Ses études  
 
-- Il a fait un DUT en mécanique électronique, pour gérer une usine et faire des otomattes. Puis il a fait une école de vente et au technique commercial. Toutefois, cela ne lui a pas plu, et il s'est dirgé vers l'informatique et a obtenu un post puis à évolué.  
+- Il a fait un **[DUT](https://fr.wikipedia.org/wiki/Dipl%C3%B4me_universitaire_de_technologie)** en mécanique électronique, pour gérer une usine et faire des otomattes. Puis il a fait une école de vente et au technique commercial. Toutefois, cela ne lui a pas plu, et il s'est dirgé vers l'informatique et a obtenu un post puis à évolué.  

@@ -12,4 +12,4 @@ tags: [développeur, frontend]
 
 ![sdifférences entre le développeur front et le développeur back](./difference-entre-developpeur-front-et-back.jpg)  
 
-Il s'agit là d'une image illustrant la différence entre les développeur backend et les développeur frontend.  
+Ps: il s'agit là d'une image illustrant la différence entre les développeur backend et les développeur frontend.  
