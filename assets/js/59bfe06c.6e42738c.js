@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[8265],{2447:e=>{e.exports=JSON.parse('{"label":"united template","permalink":"/Blog/blog/tags/united-template","allTagsPath":"/Blog/blog/tags","count":1}')}}]);

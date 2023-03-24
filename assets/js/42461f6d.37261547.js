@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[5174],{9090:e=>{e.exports=JSON.parse('{"label":"d\xe9veloppeur","permalink":"/Blog/blog/tags/developpeur","allTagsPath":"/Blog/blog/tags","count":2}')}}]);
